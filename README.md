@@ -1,5 +1,7 @@
 # Claude Code 会话迁移工具
 
+[中文](README.md) | [English](README.en.md)
+
 一个轻量的桌面工具（Tkinter），用于在项目路径变更后迁移 Claude Code 会话目录，避免会话丢失。
 
 > 当前版本：`v1.0.0`
